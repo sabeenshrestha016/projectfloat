@@ -1,0 +1,62 @@
+ *{
+    margin: 0;
+    padding: 0; 
+    /*box-sizing: border-box;*/
+ }
+
+ body{
+    font-family: 'Comforter Brush', cursive;
+ }
+
+
+
+h3{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.welcome-section h1 {
+    text-align: center;
+    color: #993366;
+    border: 5px dashed grey;
+    width: 50%;
+    margin: auto;
+   }
+
+ .welcome-section {
+        width: 900px;
+        border: 10px solid purple;
+        border-radius: 10px;
+        margin:35px auto ;
+        padding: 10px 5px;
+        background: rgb(250, 226, 205);
+}
+
+
+.item {
+	border :3px solid grey;
+    margin: 10px 5px;
+    background: rgb(204, 153, 255);
+}
+
+ .welcome-section .para{
+   font-size: 25px;
+   line-height: 40px;
+   color:#990000;
+   text-align-last: center;
+ }
+
+ #fruit{
+  width : 48%;
+  float: left ;
+ }
+
+ #computer{
+   
+   width: 48%;
+   float: right;
+}
+
+#stationary {
+   clear: both;
+}
